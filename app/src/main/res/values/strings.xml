@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="recent">Recent</string>
+    <string name="working">Working</string>
+    <string name="finished">Finished</string>
+    <string name="Plus">+</string>
+</resources>
